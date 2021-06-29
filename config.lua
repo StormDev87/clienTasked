@@ -1,7 +1,7 @@
 Config = {}
 
 Config.lcTask = {
-    {nameTask = "fast", status = true, tmTask = 25}, --eseguito ogni sec
+    {nameTask = "fast", status = true, tmTask = 25}, --eseguito ogni centSec
     {nameTask = "slow", status = true, tmTask = 100},
     {nameTask = "back", status = true, tmTask = 250},
     {nameTask = "LowPr", status = true, tmTask = 1000},
